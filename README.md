@@ -1,7 +1,5 @@
 # 🤖 Laboratorio Personal de Robótica y Automatización
 
-[Contacto](#contacto-y-recursos) • [Tecnologías](#tecnologias) • [Proyectos](#proyectos-destacados)
-
 <div align="center">
 
 ![Estado](https://img.shields.io/badge/Estado-En%20Desarrollo-success?style=for-the-badge)
@@ -9,6 +7,8 @@
 ![Stack](https://img.shields.io/badge/Stack-ROS%20|%20Python%20|%20C++-orange?style=for-the-badge)
 
 *Donde las ideas pasan del cuaderno al robot.*
+
+[Contacto](#contacto-y-recursos) • [Tecnologías](#tecnologias) • [Proyectos](#proyectos-destacados)
 
 <br>
 
@@ -21,6 +21,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Baadr66/Baadr66)
 
 </div>
+
 
 
 
