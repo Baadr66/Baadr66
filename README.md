@@ -1,33 +1,34 @@
-# 🤖 Portfolio de Robótica y Automatización
+# 🤖 Laboratorio Personal de Robótica y Automatización
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-Activo-success?style=for-the-badge)
+![Estado](https://img.shields.io/badge/Estado-En%20Desarrollo-success?style=for-the-badge)
 ![Proyectos](https://img.shields.io/badge/Proyectos-15+-blue?style=for-the-badge)
-![Tecnologías](https://img.shields.io/badge/Tech-ROS%20|%20Python%20|%20C++-orange?style=for-the-badge)
+![Stack](https://img.shields.io/badge/Stack-ROS%20|%20Python%20|%20C++-orange?style=for-the-badge)
 
-*Transformando ideas en sistemas autónomos e inteligentes*
+*Donde las ideas pasan del cuaderno al robot.*
 
-[📫 Contacto](#contacto) • [🛠️ Tecnologías](#tecnologías) • [📂 Proyectos](#proyectos-destacados)
+[Contacto](#contacto) • [Tecnologías](#tecnologías) • [Proyectos](#proyectos-destacados)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 ¿Quién soy?
 
-Ingeniero especializado en robótica y automatización industrial con pasión por crear sistemas que interactúan de forma inteligente con el mundo real. Mi enfoque combina el rigor técnico con la creatividad para resolver problemas complejos mediante soluciones elegantes y eficientes.
+Soy estudiante de 4.º de Informática Industrial y Robótica, con gran interés en el desarrollo de soluciones tecnológicas orientadas a la automatización, la programación de sistemas embebidos y la integración de hardware y software. Me caracterizo por mi capacidad para aprender rápido, resolver problemas de forma práctica y trabajar en equipo. Busco oportunidades que me permitan aplicar mis conocimientos, seguir desarrollando mis habilidades técnicas y contribuir a proyectos innovadores en el ámbito industrial y robótico.
 
 ```python
-class RoboticsEngineer:
+class IngenieroRobotica:
     def __init__(self):
-        self.name = "Tu Nombre"
-        self.role = "Robotics & Automation Engineer"
-        self.interests = ["Autonomous Systems", "Computer Vision", "Industrial IoT"]
-        self.currently_learning = ["Deep Reinforcement Learning", "ROS2"]
-    
-    def say_hi(self):
-        print("¡Construyamos el futuro, un robot a la vez! 🚀")
+        self.nombre = "Badr"
+        self.rol = "Robotics & Automation Engineer"
+        self.explorando = [
+            "Robots Autónomos",
+            "Bases de Datos aplicadas a IoT",
+            "Automatización Industrial"
+        ]
+
 ```
 
 ---
@@ -36,15 +37,14 @@ class RoboticsEngineer:
 
 ### Robótica
 - **ROS/ROS2** - Framework para desarrollo de robots
-- **Gazebo/Webots** - Simulación de entornos robóticos
-- **MoveIt** - Planificación de movimiento para manipuladores
-- **Navigation Stack** - Navegación autónoma
+- **CoppeliaSim** - Simulador multiplataforma de robots
+- **RobotStudio** - programación, simulación y puesta en marcha offline de robots
 
 ### Programación
 - **Python** - Algoritmos, visión por computador, IA
 - **C/C++** - Sistemas embebidos, control en tiempo real
 - **MATLAB/Simulink** - Modelado y simulación
-- **Arduino/Raspberry Pi** - Prototipado rápido
+- **Arduino** - Prototipado rápido
 
 ### Visión por Computador
 - **OpenCV** - Procesamiento de imágenes
@@ -52,7 +52,7 @@ class RoboticsEngineer:
 - **YOLO/TensorFlow** - Detección de objetos
 
 ### Hardware & Control
-- **PLCs (Siemens, Allen-Bradley)** - Automatización industrial
+- **PLCs (Siemens, CodeSYS, Factory I/O)** - Automatización industrial
 - **Microcontroladores (STM32, ESP32)** - Control embebido
 - **Sensores LiDAR, IMU, Cámaras** - Percepción del entorno
 - **Actuadores (Servos, Motores DC/Stepper)** - Control de movimiento
