@@ -14,7 +14,7 @@
 
 ### 📫 Contacto y Recursos
 
-[Descargar mi CV](https://raw.githubusercontent.com/Baadr66/Baadr66/main/Curriculum_Badr_etsinf%20(1).pdf)
+[![Currículum](https://img.shields.io/badge/Currículum-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://raw.githubusercontent.com/Baadr66/Baadr66/main/Curriculum_Badr_etsinf%20(1).pdf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badr-lamallam-43585b239/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](tu-github)
