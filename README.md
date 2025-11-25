@@ -15,7 +15,7 @@
 ### 📫 Contacto y Recursos
 
 [![Currículum](https://img.shields.io/badge/Currículum-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://raw.githubusercontent.com/Baadr66/Baadr66/main/Curriculum_Badr_etsinf%20(1).pdf)
-[Envíame un email](mailto:blamkha@upv.edu.es)
+[blamkha@upv.edu.es](mailto:blamkha@upv.edu.es)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badr-lamallam-43585b239/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Baadr66)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Baadr66/Baadr66)
